@@ -1,0 +1,15 @@
+Date,Product,Quantity,Unit_Price,Total_Amount,Salesperson,Region
+2024-01-05,Laptop,5,1200,6000,John Smith,North
+2024-01-08,Mouse,50,25,1250,Sarah Johnson,South
+2024-01-10,Keyboard,30,75,2250,John Smith,North
+2024-01-15,Monitor,8,350,2800,Michael Brown,East
+2024-01-18,Printer,3,500,1500,Emily Davis,West
+2024-01-20,Laptop,7,1200,8400,David Wilson,North
+2024-01-22,Router,15,120,1800,Lisa Anderson,South
+2024-01-25,USB Cable,200,5,1000,James Taylor,East
+2024-02-01,Monitor,10,350,3500,Robert Martinez,West
+2024-02-05,Laptop,6,1200,7200,John Smith,North
+2024-02-10,Keyboard,25,75,1875,Sarah Johnson,South
+2024-02-15,Mouse,75,25,1875,Michael Brown,East
+2024-02-20,Printer,4,500,2000,Emily Davis,West
+2024-02-25,Router,20,120,2400,David Wilson,North

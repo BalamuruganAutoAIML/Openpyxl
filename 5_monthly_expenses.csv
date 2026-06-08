@@ -1,0 +1,14 @@
+Month,Category,Amount,Description,Status
+January,Office Supplies,450,Pens and paper,Paid
+January,Utilities,1200,Electric and water,Paid
+January,Rent,5000,Office rent,Paid
+January,Travel,800,Client meetings,Paid
+February,Office Supplies,350,Printer cartridges,Paid
+February,Utilities,1150,Electric and water,Paid
+February,Rent,5000,Office rent,Pending
+February,Travel,1200,Conference,Paid
+February,Maintenance,600,Equipment repair,Pending
+March,Office Supplies,400,Desk accessories,Approved
+March,Utilities,1100,Electric and water,Paid
+March,Rent,5000,Office rent,Paid
+March,Travel,900,Client visits,Approved

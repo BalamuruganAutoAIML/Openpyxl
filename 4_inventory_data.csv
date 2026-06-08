@@ -1,0 +1,11 @@
+ItemID,ItemName,Category,QuantityOnHand,ReorderLevel,UnitCost,SupplierName
+I001,Laptop Computer,Electronics,45,20,900,TechSupply Inc
+I002,USB Mouse,Accessories,150,50,18,TechSupply Inc
+I003,Keyboard,Accessories,80,30,65,OfficeGear Ltd
+I004,Monitor 24in,Electronics,35,15,300,ElectroHub
+I005,Desk Chair,Furniture,25,10,150,FurniturePlus
+I006,Standing Desk,Furniture,12,5,450,FurniturePlus
+I007,Filing Cabinet,Furniture,18,8,200,OfficeGear Ltd
+I008,Desk Lamp,Accessories,40,20,35,LightWorks
+I009,Printer,Electronics,8,3,400,ElectroHub
+I010,Scanner,Electronics,6,2,350,TechSupply Inc
