@@ -36,7 +36,7 @@ def example_1_basic_read_write():
     
     # Save
     wb.save("example_output_1.xlsx")
-    print("✓ Created: example_output_1.xlsx")
+    print("[OK] Created: example_output_1.xlsx")
     
     # Read back
     wb = load_workbook("example_output_1.xlsx")
@@ -104,7 +104,7 @@ def example_2_styling():
     ws.column_dimensions['C'].width = 12
     
     wb.save("example_output_2.xlsx")
-    print("✓ Created: example_output_2.xlsx")
+    print("[OK] Created: example_output_2.xlsx")
     print("  Features: Colors, Fonts, Currency Format, Borders, Column Widths")
 
 # ============================================================================
@@ -153,7 +153,7 @@ def example_3_multiple_sheets():
         ws2[f"B{row}"].number_format = '$#,##0'
     
     wb.save("example_output_3.xlsx")
-    print("✓ Created: example_output_3.xlsx")
+    print("[OK] Created: example_output_3.xlsx")
     print("  Features: Multiple Sheets, Cross-Sheet Formulas, Automatic Calculations")
 
 # ============================================================================
@@ -203,7 +203,7 @@ def example_4_formulas():
     ws['C8'].number_format = '$#,##0'
     
     wb.save("example_output_4.xlsx")
-    print("✓ Created: example_output_4.xlsx")
+    print("[OK] Created: example_output_4.xlsx")
     print("  Formulas: SUM, AVERAGE, COUNTIF, Basic Arithmetic")
 
 # ============================================================================
@@ -274,7 +274,7 @@ def example_5_data_validation():
     ws.column_dimensions['B'].width = 25
     
     wb.save("example_output_5.xlsx")
-    print("✓ Created: example_output_5.xlsx")
+    print("[OK] Created: example_output_5.xlsx")
     print("  Features: List Dropdowns, Numeric Range, Date Validation, Error Messages")
 
 # ============================================================================
@@ -340,7 +340,7 @@ def example_6_charts():
     ws.add_chart(pie_chart, "E15")
     
     wb.save("example_output_6.xlsx")
-    print("✓ Created: example_output_6.xlsx")
+    print("[OK] Created: example_output_6.xlsx")
     print("  Features: Bar Charts, Pie Charts, Chart Titles, Axis Labels")
 
 # ============================================================================
@@ -390,7 +390,7 @@ def example_7_csv_to_excel():
     ws.column_dimensions['C'].width = 12
     
     wb.save("example_output_7.xlsx")
-    print("✓ Created: example_output_7.xlsx")
+    print("[OK] Created: example_output_7.xlsx")
     print("  Converted CSV to Excel with formatting")
 
 # ============================================================================
@@ -451,7 +451,7 @@ def example_8_merge_cells():
         ws[f"C{row}"].number_format = '$#,##0'
     
     wb.save("example_output_8.xlsx")
-    print("✓ Created: example_output_8.xlsx")
+    print("[OK] Created: example_output_8.xlsx")
     print("  Features: Merged Cells, Professional Layout, Summary Section")
 
 # ============================================================================
